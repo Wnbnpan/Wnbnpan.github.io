@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Alan_Wenbin_Pan</title>
+        <link>https://wnbnpan.github.io/</link>
+        <description>This is Alan Pan&#39;s Site!</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>alanpanwb@gmail.com (Alan_Pan)</managingEditor>
+            <webMaster>alanpanwb@gmail.com (Alan_Pan)</webMaster><copyright>© 2025 Wenbin Pan</copyright><lastBuildDate>Mon, 10 Feb 2025 13:41:39 &#43;0800</lastBuildDate>
+            <atom:link href="https://wnbnpan.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>How to build your cool site?</title>
+    <link>https://wnbnpan.github.io/first_post/</link>
+    <pubDate>Mon, 10 Feb 2025 13:41:39 &#43;0800</pubDate>
+    <author>Alan_Pan</author>
+    <guid>https://wnbnpan.github.io/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
